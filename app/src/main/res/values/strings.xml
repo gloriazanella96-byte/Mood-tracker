@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mood Tracker</string>
+    <string name="enter_mood_prompt">Please enter a mood!</string>
+    <string name="mood_result_text">Today is a %1$s day!</string>
+</resources>
